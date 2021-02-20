@@ -7,7 +7,7 @@
     <title>Exercise Four | Delete Client</title>
 </head>
 <body>
-<form method="POST"> 
+<form method="POST" action="delete_logic.php"> 
     <h1>Delete client from database</h1>
 
     <label for="client_id">Enter client ID to delete</label>
