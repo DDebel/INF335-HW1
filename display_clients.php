@@ -8,7 +8,7 @@
 </head>
 <body>
 <!--Form for displaying clients-->
-<form method="POST"> 
+<form method="POST" action="display_logic.php"> 
     <input type="submit" name="clients_button" class="button" value="View Clients" />       
 </form> 
 

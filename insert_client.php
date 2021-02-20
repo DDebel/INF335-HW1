@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form method="POST" name="insert_client_form"> 
+<form method="POST" name="insert_client_form" action="insert_logic.php"> 
     <h1>Insert client in database</h1>
 
     <label  for="">Enter client ID</label>

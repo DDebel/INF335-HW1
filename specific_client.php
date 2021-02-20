@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form method="POST"> 
+<form method="POST" action="client_logic_app.php"> 
     <label  for="client_id">Enter client ID to view more details</label>
     <input name="client_id" type="text">
     <input type="submit" name="specific_client" class="button" value="View Client" />       
